@@ -61,9 +61,17 @@ Curated list of the best open-source projects for mobile development, categorizi
 
 - [Mobile_Developement_OpenSources.md](Mobile_Developement_OpenSources.md)
 
----
+### 9. Comprehensive Guide to Information Security APIs
 
-Feel free to explore and contribute to these projects. Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
+Unlock the power of various APIs to enhance your cybersecurity capabilities. This guide covers a wide range of APIs, from threat intelligence and malware analysis to cloud security and mobile security, providing valuable resources for threat detection, incident response, and overall security operations. Explore these APIs to bolster your security strategy and stay ahead of potential threats.
+
+- [Developers_API.md](Developers_API.md)
+
+### 10. Comprehensive Guide to Open-source APIs for Developers
+
+This guide provides a curated list of open-source APIs that developers can leverage for various functionalities, including data retrieval, authentication, communication, payment processing, social media integration, geolocation, machine learning, utility tasks, DevOps and CI/CD, file storage, and web scraping. Each API listed is beginner-friendly, well-documented, and has proven reliability, making it an essential resource for developers aiming to enhance their projects.
+
+- [API_Information_Security_Dev](API_Information_Security_Dev.md)
 
 ## Contributing
 

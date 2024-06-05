@@ -12,6 +12,8 @@ This repository contains a curated list of the best open-source tools and resour
 6. [Information Security Tools](#6-information-security-tools)
 7. [Free Developer Resources](#7-free-developer-resources)
 8. [Mobile Development Tools](#8-mobile-development-tools)
+9. [API for Information Security Developers](#9-comprehensive-guide-to-information-security-apis)
+10. [API for Developers](#10-comprehensive-guide-to-open-source-apis-for-developers)
 
 ## 1. Encryption Tools
 
@@ -65,13 +67,13 @@ Curated list of the best open-source projects for mobile development, categorizi
 
 Unlock the power of various APIs to enhance your cybersecurity capabilities. This guide covers a wide range of APIs, from threat intelligence and malware analysis to cloud security and mobile security, providing valuable resources for threat detection, incident response, and overall security operations. Explore these APIs to bolster your security strategy and stay ahead of potential threats.
 
-- [Developers_API.md](Developers_API.md)
+- - [API_Information_Security_Dev](API_Information_Security_Dev.md)
 
 ### 10. Comprehensive Guide to Open-source APIs for Developers
 
 This guide provides a curated list of open-source APIs that developers can leverage for various functionalities, including data retrieval, authentication, communication, payment processing, social media integration, geolocation, machine learning, utility tasks, DevOps and CI/CD, file storage, and web scraping. Each API listed is beginner-friendly, well-documented, and has proven reliability, making it an essential resource for developers aiming to enhance their projects.
 
-- [API_Information_Security_Dev](API_Information_Security_Dev.md)
+- [Developers_API.md](Developers_API.md)
 
 ## Contributing
 
